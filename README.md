@@ -58,7 +58,7 @@ _Steps to recreate:_
     
 ## Assets
 1. XSS Script:
- http://wpdistillery.vm/<svg onload=alert(1)>
+ http://wpdistillery.vm/   <svg onload=alert(1)>
 
 
 ## Resources
